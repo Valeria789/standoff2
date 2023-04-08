@@ -1,0 +1,51 @@
+body {  
+    background-color: indianred
+}
+
+h1 {
+    color: chartreuse;
+    font-size: 45px;
+    text-align: center;
+    box-shadow : 50px;
+}
+li {
+    font-size: 25px;
+    color:lightblue;
+}
+.photo-1 {
+    width: 500px;
+    height:500px;
+    margin-left: 200px;
+}
+.text-2 {
+    color: hotpink;
+ } 
+ .photo-2 {
+    width: 550px;
+    height: 350px;
+    margin-left: 250px;
+ }
+ .text-3 {
+    color:darkorange
+}
+.photo-3 {
+    width: 550px;
+    height: 350px;
+    margin-left: 250px;
+}
+.photo-4 {
+    width: 450px;
+    height: 350px;
+    margin-left: 350px;
+}
+.photo-5 {
+    width: 400px;
+    height: 400px;
+    margin-left: 350px;
+}
+.linb {
+     text-decoration: none
+}
+
+   
+    
